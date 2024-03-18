@@ -1,0 +1,14 @@
+{
+  "name": "custom_cli",
+  "version": "1.0.0",
+  "description": "custom cli",
+  "main": "index.js",
+  "bin": {
+    "note": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Coffeholic",
+  "license": "ISC"
+}
